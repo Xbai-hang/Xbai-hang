@@ -1,8 +1,8 @@
 ### 🌱 About Me
 > A simple self-introduction
 - 👋 Hi, I’m Xbai-hang, ♊.
-- 🎯 Interested in cybersecurity and want to become a hacker.
-- 🏡 Graduated from CSUFT and currently pursuing my Master's degree in Network and Information Security at ZZU.
+- 🎯 Interested in Cyber Security and want to become a hacker.
+- 🏡 Graduated from CSUFT and currently pursuing my Master's degree in Cyber and Information Security at ZZU.
 - 📚 I'm currently learning penetration testing and Python crawler.
 - 💡 Occasionally having some wild ideas.
 - 📫 You can reach me by email: [Xbai-hang@qq.com](mailto:mail@Xbai-hang@qq.com).
